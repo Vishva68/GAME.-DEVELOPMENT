@@ -1,4 +1,6 @@
 # EX 2 : Bresenham‘s Line Drawing Algorithm
+Name:Vishvanandh N
+Reg no:212224240186
 
 **AIM :**
 
