@@ -74,8 +74,6 @@ int main() {
     return 0;
 }
 Program to implement the Bresenham’s  algorithm for line using a c coding.
-Developed by: Tharun Kumar V
-Register Number: 212224240173
 ~~~
 **Output :**
 ![Screenshot 2025-04-26 133510](https://github.com/user-attachments/assets/f6499796-c526-4db0-8e12-2ce54b53ae1a)
